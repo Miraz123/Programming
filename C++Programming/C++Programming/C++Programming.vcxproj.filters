@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\RepeatProgramming">
+      <UniqueIdentifier>{083c3ae4-ad37-4e12-ae2f-cd3e70d76c27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DemoCode">
+      <UniqueIdentifier>{46595058-f50c-4863-84f2-2d846a1f572e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Pattern">
+      <UniqueIdentifier>{77112ee9-24cb-4914-a524-08c8a16ac240}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="StackDemo.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerDemo.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="StackDemoR.cpp">
+      <Filter>Source Files\RepeatProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkListDemo.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Suffix Array.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Parallel Array.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Sorted Array.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Sparse Array.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Sparse Matrix.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Variable_length_array.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="VectorDemo.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="BitArray.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="AdjecencyList.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="AdjacencyMatrix.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphStructuredStack.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="CircularSinglyLinkedList.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="DoublyLinkedList.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="CircularDoublyLinkedList.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="SelfOrganisingList.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="VList.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="XorLinkedList.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="SkipList.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="StackExm.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="QueueusingLinkedList.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="DoublyEndedQueue_or_Dequeue.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Pagoda.cpp">
+      <Filter>Source Files\DemoCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Dambru.cpp">
+      <Filter>Source Files\Pattern</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C++Programming.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
